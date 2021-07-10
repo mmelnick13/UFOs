@@ -12,18 +12,22 @@ The results of this project allow users to sort by a feature: date, city, state,
 ### Date
 The user enters the desired date, the change is detected and the table is updated accordingly.
 
+![date](images/date.png)
 
 ### City
 The user enters the desired city, the change is detected and the table is updated accordingly.
 
+![city](images/city.png)
 
-### State
+### Country
 The user enters the desired country, the change is detected and the table is updated accordingly.
 
+![country](images/country.png)
 
-### Country and Shape
+### State and Shape
 The user enters the desired state and shape observed, the changes are detected and the table is updated accordingly.
 
+![ss](images/state_and_shape.png)
 
 ## Summary: 
 ### Drawbacks
